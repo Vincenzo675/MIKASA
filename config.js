@@ -73,13 +73,13 @@ global.botname = process.env.BOTNAME
 global.premium = 'true'
 global.packname = 'Mikasa'
 global.author = 'Vince Thongam'
-global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
+global.menuvid = 'https://imgur.com/8own1OV.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Craftastic_land_\n'
 global.dygp = 'https://Wa.me/+916909297247'
 global.fgsc = 'https://github.com/Vincenzo675/MIKASA'
 global.fgyt = 'https://youtube.com/@CraftasticLand'
 global.fgpyp = 'https://youtube.com/@CraftasticLand'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg'
+global.fglog = 'https://i.imgur.com/C7gG27n.jpeg'
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
